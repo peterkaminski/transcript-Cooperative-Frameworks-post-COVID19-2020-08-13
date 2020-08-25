@@ -1,4 +1,4 @@
-The home page for this transcript is [https://github.com/peterkaminski/transcript-Cooperative-Frameworks-post-COVID19-2020-08-13](https://github.com/peterkaminski/transcript-Cooperative-Frameworks-post-COVID19-2020-08-13). This is version 1 of the transcript.
+The home page for this transcript is [https://github.com/peterkaminski/transcript-Cooperative-Frameworks-post-COVID19-2020-08-13](https://github.com/peterkaminski/transcript-Cooperative-Frameworks-post-COVID19-2020-08-13). This is version 2 of the transcript.
 
 (00:00) [Lou] We are here to talk about sensemaking today because, honestly, there is no issue that gets more meta than sensemaking, since whatever solutions to our existential issues we may find, if we don't have a good system to shelter them, share them, draw the right conclusions, and act on them, we will still run ourselves over the cliff of our illusions.
 
