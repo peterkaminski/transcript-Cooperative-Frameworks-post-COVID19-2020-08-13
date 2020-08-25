@@ -2,7 +2,7 @@
 
 ## Overview
 
-[This repository](https://github.com/peterkaminski/transcript-Cooperative-Frameworks-post-COVID19-2020-08-13) contains a transcript of the Foresight Institute Weekly Salon of August 13, 2020, [Sensemaking: Cooperative Frameworks post-COVID19 & Cross-Silo Cooperation](https://www.facebook.com/events/901430270378723/).  You can watch the [YouTube video](https://www.youtube.com/watch?v=0qNEDoYYLUY), and read a [machine-generated transcript](https://otter.ai/s/wHFNUJLyTniIetIidPt5fA).  The files in this repository have a human-corrected transcript, which better reflects the speakers’ words.
+[This repository](https://github.com/peterkaminski/transcript-Cooperative-Frameworks-post-COVID19-2020-08-13) contains a transcript of the Foresight Institute Weekly Salon of August 13, 2020, [Sensemaking: Cooperative Frameworks post-COVID19 & Cross-Silo Cooperation](https://www.facebook.com/events/901430270378723/).  You can watch the [YouTube video](https://www.youtube.com/watch?v=0qNEDoYYLUY), and read a [machine-generated transcript](https://otter.ai/s/wHFNUJLyTniIetIidPt5fA).  The files in this repository have a [human-corrected transcript](https://github.com/peterkaminski/transcript-Cooperative-Frameworks-post-COVID19-2020-08-13/blob/master/Cooperative%20Frameworks%20post-COVID19%202020-08-13.md), which better reflects the speakers’ words.
 
 The featured speakers were **Phoebe Tinkell** and **Dave Snowden**.  The host was **Lou de Kerhuelvez**.  Dave replaced Nora Bateson at the last minute.
 
