@@ -14,9 +14,7 @@ In some cases, words were hard to distinguish due to audio quality, and inevitab
 
 ### Text Conventions
 
-There is a timestamp at the beginning of each paragraph of text.  In oTranscribe, there are parentheses around the timestamp. There is no punctuation around the timestamp in the other formats.
-
-The timestamps are approximate.
+There is a timestamp in parentheses at the beginning of each paragraph of text.  The timestamps are approximate.
 
 When the speaker changes, the speaker’s first name is included in square brackets. In subsequent paragraphs, the speaker name is left off.
 
