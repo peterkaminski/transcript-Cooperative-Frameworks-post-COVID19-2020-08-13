@@ -22,7 +22,7 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (05:11) It's a great time to influence some of the organizations that have been set up in response to the pandemic to have a broader scope than just preparing for the next pandemic. And it's a good time to build resiliency for a variety of future risk.
 
-((((05:30) We have also talked a lot in this community about encouraging quantitative policies, encouraging the use of prediction tools and data for improving decision makers ability to respond. In particular, we talked a lot about a tool called Metaculus, and I'm here pasting in the chat the link to a great Salon we had with) Anthony Aguirre, presenting) Metaculus) and this forecasting/prediction tool.
+(05:30) We have also talked a lot in this community about encouraging quantitative policies, encouraging the use of prediction tools and data for improving decision makers ability to respond. In particular, we talked a lot about a tool called Metaculus, and I'm here pasting in the chat the link to a great Salon we had with Anthony Aguirre, presenting Metaculus and this forecasting/prediction tool.
 
 (06:05) The other opportunity from this crisis is to build a truth-driven information ecosystem. The Internet is not just giving birth to a rise in conspiracy theories. Things like social media, email, Zoom are major coordination technologies that are being strengthened as a global immune system, while people stay at home and learn to use this new muscle, and I think just this community is very much a positive example of this.
 
@@ -52,11 +52,11 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (11:56) So let me make a couple of controversial statements up front. There is a general myth, particularly amongst people in my own social class and educational background. And looking around, that's everybody else on the screen in front of me. To assume that if only people had the right information and the right education and talk with us enough, they would make the right decisions. And that is a quite dangerous myth. You see it a lot in people like Senge, (sp?), if we look at the populist end of systems thinking.
 
-((12:28) The reality is that actually it's just bad science. It's just not the way things work. People have never made objective decisions based on the evidence. It's just really from the 1940s until recently, they trusted experts to do that for them, and that actually hasn't panned out very well. So they're trying populist (sp?) for a change. We just don't have the cognitive capacity to make decisions, as a broad population.)  And assumptions of information and rational decision making will actually mean that things get worse rather than better, they're too easily exploited by the likes of Trump, Dominic Cummings, people like that.
+(12:28) The reality is that actually it's just bad science. It's just not the way things work. People have never made objective decisions based on the evidence. It's just really from the 1940s until recently, they trusted experts to do that for them, and that actually hasn't panned out very well. So they're trying populist (sp?) for a change. We just don't have the cognitive capacity to make decisions, as a broad population. And assumptions of information and rational decision making will actually mean that things get worse rather than better, they're too easily exploited by the likes of Trump, Dominic Cummings, people like that.
 
 (13:11) What we've done is to combine three core concepts. One is a strange attractor in complexity theory. And a strange attractor, if you look it up, you'll find a thing called a Lorenz butterfly. The agent never follows the same path. But even though they never follow the same path, there's an overall pattern. They're quite beautiful when you actually look at them.
 
-(((13:36) The other is to go into epistemology. And if you're going into) Deleuze,) particularly DeLanda's work on that, what's called an assemblage, and I'm interpreting assemblage here as a pattern of narrative, which now exists independently of the storytellers and acts as a downward constraint on what people are prepared to see or believe.
+(13:36) The other is to go into epistemology. And if you're going into Deleuze, particularly DeLanda's work on that, what's called an assemblage, and I'm interpreting assemblage here as a pattern of narrative, which now exists independently of the storytellers and acts as a downward constraint on what people are prepared to see or believe.
 
 (13:57) In narrative theory, which is one of my backgrounds, that's called a trope. I intensely dislike the term "meme." It's based on a false metaphor with Dawkins' concept of "the selfish gene," which isn't taken seriously by any geneticist I know. The idea there's something seeking to replicate itself is a bad framework. The reality is, there's a pattern of multiple micro-narratives, which now resonate against each other, which prevent people from breaking out of that micro-narrative.
 
@@ -72,11 +72,11 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (16:50) The other key lesson to come out of complexity is that connections matter more than things. To be very brutal about this, people don't matter. How people **connect** matters. For example, when I was working on peace and reconciliation in Northern Ireland in the seventies, we had two approaches.
 
-((17:12) One is the Corrymeela) approach, where they got people together from both communities in week-long workshops in which everybody agreed they would love each other and they could live in peace and harmony. Now, this was wonderfully satirized in the first episode of series two of Derry Girls, by the way, in which the Catholic girls are forced into trust exercises with the Protestant boys, looked on by the nun, who I think is the best character in the series. If you haven't seen it, go and watch it.
+(17:12) One is the Corrymeela approach, where they got people together from both communities in week-long workshops in which everybody agreed they would love each other and they could live in peace and harmony. Now, this was wonderfully satirized in the first episode of series two of Derry Girls, by the way, in which the Catholic girls are forced into trust exercises with the Protestant boys, looked on by the nun, who I think is the best character in the series. If you haven't seen it, go and watch it.
 
 (17:39) It didn't work because within days of actually going through the workshop, people were back in a different context, and were throwing petrol bombs at each other again.
 
-(((17:48) I was working in the) Glencree) Centre there, and as a Jesuit, what we did is we took asymmetric groups, two Protestants, one Catholic; or two Catholics and one Protestant. Then we threw them into Latin America for six months, and we didn't talk about the Troubles.
+(17:48) I was working in the Glencree Centre there, and as a Jesuit, what we did is we took asymmetric groups, two Protestants, one Catholic; or two Catholics and one Protestant. Then we threw them into Latin America for six months, and we didn't talk about the Troubles.
 
 (18:03) What we did is, we changed the connections between people, and we changed the context in which they were having their discussions. And I have a huge difficulty with a whole bunch of Boston Brahmins on this, because they genuinely believe that all the world's problems could be solved if only competing people came together, facilitated by said Boston Brahmins, and listen to reason. And that ain't going to make any difference.
 
@@ -98,7 +98,7 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (21:48) So even if you spent hundreds of hours online trying to read about a certain topic, you'd still only cover .1, .01% off the data out there that covers a topic of interest. So then you've got these algorithms which are trying to personalize the news and data towards what you find interesting. And then it's having a massive effect on democracy.  
 
-((22:14) And people are living in these echo chambers where they believe that what **they** believe is the only reality. And they're hardly having any contact with the kind of opposing views and people who hold opposing views. So we start to create these kind of mimetic echo chambers, which are far more dangerous than they sound, because suddenly you don't have people who appreciate that there are different people with different points of view and there are multiple truths. There's this massive polarisation happening, and I think that's just important to kind of bring into the discussion. And it's also the focus of the project that I'm an adviser to, called the Consilience Project that our mutual friend, Dave, and I think also with Foresight, Daniel Schmachtenberger) is leading. And so I can also go into a little bit about what that project is doing, and other topics.
+(22:14) And people are living in these echo chambers where they believe that what **they** believe is the only reality. And they're hardly having any contact with the kind of opposing views and people who hold opposing views. So we start to create these kind of mimetic echo chambers, which are far more dangerous than they sound, because suddenly you don't have people who appreciate that there are different people with different points of view and there are multiple truths. There's this massive polarisation happening, and I think that's just important to kind of bring into the discussion. And it's also the focus of the project that I'm an adviser to, called the Consilience Project that our mutual friend, Dave, and I think also with Foresight, Daniel Schmachtenberger is leading. And so I can also go into a little bit about what that project is doing, and other topics.
 
 (23:05) But I'm keen to more have a conversation with you, Dave, than go one after the other, and talk about our own stuff because, yeah, we don't get the opportunity to talk that many times.
 
@@ -112,7 +112,7 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (25:04) Sorry, I once got blocked from Wikipedia for three months. I was blocked from editing the Ayn Rand page but was allowed to contribute constructively to the talk page. But the Ayn Rand followers were all blocked for at least a year, so I considered myself a necessary casualty of that battle.
 
-(((25:25) [Phoebe] Lou or Allison, do you have specific questions for us? Or I think another thing that I'd love to go into is global governance and cooperation. And what are the things that are necessary for that kind of global) cooperation) and sensemaking.
+(25:25) [Phoebe] Lou or Allison, do you have specific questions for us? Or I think another thing that I'd love to go into is global governance and cooperation. And what are the things that are necessary for that kind of global cooperation and sensemaking.
 
 (25:40) [Lou] Well, I do. I do have a question. And perhaps it fits into with what you want to talk about it, which is that I would love to hear from both of you. I would love to hear you paint your ideal picture of this post-COVID-19, cross-silo collaboration world. How does it work? Who is cooperating with whom? And how, with which consequences? What can we do well?
 
@@ -138,7 +138,7 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (31:03) But those need to be the sort... I mean, my children is one example of that, but that gives me a statistically valid sample. It also links, and if you don't know, the Future Generations Act in Wales, we're quite proud of this, we're the only country which passed legislation which says, no legislation could be passed by the Senate, that's the Welsh parliament, unless it explicitly takes account the needs of the next generation. So we actually legislated for forward thinking. And that's now being talked about in the UK and elsewhere.
 
-((31:34) So) I think that sort of distributed process, we're starting to build the mechanisms. But citizen assemblies and citizen juries are poor if they're just gathering a group of people with higher levels of facilitation. We need to think about the ways we **inform** them, and then we distribute decision-making, during that process itself. So a lot of us are thinking about this. And a final point I'd make, which sort of links in with Rachel, all right, because I just saw your cat. If you want a general principle on this, people who are owned by cats generally understand complexity. People who own dogs, they're trying to avoid it. :-)
+(31:34 So) I think that sort of distributed process, we're starting to build the mechanisms. But citizen assemblies and citizen juries are poor if they're just gathering a group of people with higher levels of facilitation. We need to think about the ways we **inform** them, and then we distribute decision-making, during that process itself. So a lot of us are thinking about this. And a final point I'd make, which sort of links in with Rachel, all right, because I just saw your cat. If you want a general principle on this, people who are owned by cats generally understand complexity. People who own dogs, they're trying to avoid it. :-)
 
 (32:13) I could never resist that one. :-)
 
@@ -154,7 +154,7 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (33:48) [Phoebe] Say more?  
 
-(((33:49) [Dave] Anything an algorithm can interpret, an algorithm can create.) ) And the people with **most access** to resources to create those algorithms are generally not on the side of the good.
+(33:49) [Dave] Anything an algorithm can interpret, an algorithm can create.  And the people with **most access** to resources to create those algorithms are generally not on the side of the good.
 
 (34:02) [Phoebe] Indeed. Exactly.
 
@@ -174,9 +174,9 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (36:04) So the Consilience Project is about taking these intelligence reports and trying to make them public. So how do we create really trustworthy, publicly-accessible intelligence reports -- like, this is what is happening in the world right now, and having that in different geographies. Then, as well as data, as well as stories, then you've also got people's ability to do sensemaking, and given the things we talked about around algorithmic, limbic hijack, and biases, and control that happens on the algorithmic social media level, actually educating people in how these narrative warfare methodologies work allows them to disarm them, and become more immune.
 
-(((36:56) I know, Dave, you said,)  "Oh, people think if you just educate people and prepare them to do good sensemaking, everything will be fine, and it's not the case." But I would say that given the specific media ecology we're in and all of the very toxic warfare that goes on around, like trying to hijack your attention and you know, even really basic stuff...) 
+(36:56) I know, Dave, you said, "Oh, people think if you just educate people and prepare them to do good sensemaking, everything will be fine, and it's not the case." But I would say that given the specific media ecology we're in and all of the very toxic warfare that goes on around, like trying to hijack your attention and you know, even really basic stuff...
 
-((37:23) I have a science degree, so I studied molecular biology and genetics, and I think that's partly why we get on so well, Dave. But even that basic training in undergrad. You learn to look out for, like, cherry-picked statistics -- like really, really basic stuff, or you get used to reading papers and being on the lookout for when data is just being manipulated.)  Looking for, like a log axis... where it's just really easy to manipulate data to make it look the way you want it to. And so those kind of basic skills, I think, could become part of like a basic citizen training for making sense of the world.
+(37:23) I have a science degree, so I studied molecular biology and genetics, and I think that's partly why we get on so well, Dave. But even that basic training in undergrad. You learn to look out for, like, cherry-picked statistics -- like really, really basic stuff, or you get used to reading papers and being on the lookout for when data is just being manipulated. Looking for, like a log axis... where it's just really easy to manipulate data to make it look the way you want it to. And so those kind of basic skills, I think, could become part of like a basic citizen training for making sense of the world.
 
 (38:02) [Dave] I think we need to look at processes which generate good behavior rather than trying to train it directly, and this is a problem you have with a lot of education. People see that there's a deficiency and they decide, for example, in people's ability to criticize. And they think, therefore we will train them to be critical, and that is too limited.
 
@@ -190,7 +190,7 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (39:50) And I hesitate to say this with Forrest on the line, because he and I have debated this at length on the top of Powder Mountain in adverse circumstances. With too many New Age fluffy bunnies for my own good, all right.
 
-((40:04) But we actually need to focus on ontology, not epistemology. Everybody jumps in on) epistemology. They don't realize what really matters is the nature of the system you're in counts more than the type of knowledge or the way you talk about it.
+(40:04) But we actually need to focus on ontology, not epistemology. Everybody jumps in on epistemology. They don't realize what really matters is the nature of the system you're in counts more than the type of knowledge or the way you talk about it.
 
 (40:20) And I think the other key lesson on this is you need to realize we live in a context-specific world, not a context-free world. So people **keep** trying to create universal constructs. I mean, it's the big debate, you know? We wrecked the Middle East, in part, because we thought that gifts were bribes. We didn't understand the way that gifting worked in tribal cultures. So we interpreted it in the wrong way.
 
@@ -206,11 +206,11 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (42:27) But in the sense of exploring how to find solutions, finding the adjacent possible and such like that, I wondered if you could speak upon the notion of **valley crossing** versus **incremental change**. So, in other words, while I very much agree with all of the notions that you're stating here, it sounds like some of the problems, particularly in the areas of existential risk and such like that depend upon really understanding deep principles, really understanding things as you mentioned earlier at a "why" level, so that we can really have a kind of expertise to identify what the next jump would be.
 
-((43:04) ) So in other words, while we can basically look at adjacent possible and things like that, what sort of characterization can be created to allow groups of people, what sort of processes do you envision that would allow groups of people to see things that would be valley crossing type solutions? I.e., characteristically different ways of thinking about things, that might not be imaginable scenes or the kinds of narratives that we already have present. Again, this is an exploratory question. I'm not expecting an answer. I'm just curious to know if you've been thinking about this.
+(43:04 ) So in other words, while we can basically look at adjacent possible and things like that, what sort of characterization can be created to allow groups of people, what sort of processes do you envision that would allow groups of people to see things that would be valley crossing type solutions? I.e., characteristically different ways of thinking about things, that might not be imaginable scenes or the kinds of narratives that we already have present. Again, this is an exploratory question. I'm not expecting an answer. I'm just curious to know if you've been thinking about this.
 
-((43:39) [Dave] We) did start this conversation in the freezing cold on Powder Mountain, so we'll carry it on, but I'll try and bring everybody else in on it. All right? This is, kinda like where we look at fitness landscapes. What fitness landscapes do, is they identify way you can get shifts, right? And by the way, there's a lot more value in epigenetics than there is in genetics, if you look into human systems.  
+(43:39) [Dave] We did start this conversation in the freezing cold on Powder Mountain, so we'll carry it on, but I'll try and bring everybody else in on it. All right? This is, kinda like where we look at fitness landscapes. What fitness landscapes do, is they identify way you can get shifts, right? And by the way, there's a lot more value in epigenetics than there is in genetics, if you look into human systems.  
 
-((44:02) That's the other reason to be anti-Dawkins.)  We now know the mechanism by which culture inherits, and that's actually quite important. So one of the things is there timers... This is **apex predator** theory, which I've written on. There are times when the ecosystem gets so disrupted that something novel can emerge. And whatever emerges... So when the meteor wipes out the dinosaurs, you wouldn't expect the first mammal to be the next apex predator. But it is. Because something very small and highly energy efficient then exploits a disrupted ecosystem, and then becomes the apex predator. And the system organizes around the apex predator, and they can't survive.
+(44:02) That's the other reason to be anti-Dawkins. We now know the mechanism by which culture inherits, and that's actually quite important. So one of the things is there timers... This is **apex predator** theory, which I've written on. There are times when the ecosystem gets so disrupted that something novel can emerge. And whatever emerges... So when the meteor wipes out the dinosaurs, you wouldn't expect the first mammal to be the next apex predator. But it is. Because something very small and highly energy efficient then exploits a disrupted ecosystem, and then becomes the apex predator. And the system organizes around the apex predator, and they can't survive.
 
 (44:47) Now, we've had that, with America has been the apex predator in geopolitics, but it's just collapsed. America is **not** going to recover its previous position, even if, pray God, it doesn't re-elect Trump. And that's to me 50/50 at the moment. But it's never going to recover where it was. We damaged Europe. We needed Europe as a... something to stand up against Chinese, Russian, and American tyrannies because neither of those three countries has been a democracy. America hasn't been a democracy for 40 years. It's what in British political history is called a rotten borough. You have to have so much money to get elected, it's not an open democracy. So we've lost that century.
 
@@ -218,7 +218,7 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (46:01) We've got to find ways to associate COVID with climate change with Black Lives Matter, which is the epistemic drive. Because that's a flex moment in time where boundary crossing is easy. But boundary crossing is going to be far more difficult in three or four years' time. So you need to be able to monitor those spaces to make the changes I think.  
 
-((46:30) It's all gone) very quiet...
+(46:30) It's all gone very quiet...
 
 (46:34) [Phoebe] Forrest, were you trying to say something back but you were muted?
 
@@ -228,19 +228,19 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (46:48) [Forrest] ... we got ourselves crossed because we were unmuting both at the same time. So, in the sense of talking about things like existential risk, and you're saying that there's a kind of opening that's created in the potential landscape for new possibilities to emerge? But when we're thinking about existential risk we recognize that there's a kind of absence of safe-to-fail probes, that we might not have enough time for evolutionary process to create options... the options that exist in the landscape to emerge as a new force in the world, so to speak. In the sense that we may need to actually do some intelligence work to try to create those possibilities, emerging more quickly or emerging in a more effective way, that we can trust that there's essentially an appropriateness to that response, rather than.... I guess what I'm trying to get to is, is there any capacity that you see to do things that don't depend upon large epochs of time or purely local feedback processes to emerge solutions?
 
-(((47:57) [Dave] I think there's a biological model. I just finished writing a section of the EU handbook, which says, "The way you emerge from a crisis, is you focus on forced) exaptation, not adaptation.")  Exaptation, in evolutionary biology, is the process by which you repurpose existing traits for completely novel purposes. And that's something we desperately need doing on climate change. We haven't got time to invent new technologies from scratch. We've got to repurpose. And we're actually quite good at it.
+(47:57) [Dave] I think there's a biological model. I just finished writing a section of the EU handbook, which says, "The way you emerge from a crisis, is you focus on forced exaptation, not adaptation." Exaptation, in evolutionary biology, is the process by which you repurpose existing traits for completely novel purposes. And that's something we desperately need doing on climate change. We haven't got time to invent new technologies from scratch. We've got to repurpose. And we're actually quite good at it.
 
 (48:28) [Phoebe] Dave, do you think we even need new technologies at all? Would you not say that we've got most of the technologies we need to tackle climate change?
 
-((48:34) I think we've got most...) That's my point, right? We've already got most of them. So it's like when somebody notices a chocolate bar melts in their pocket and realizes the significance, we get microwave ovens. That's the 1945 example. Now a lot of our work, and this is the work we originally did for DARPA, is how do you associate unarticulated or articulated needs with existing knowledge bases in novel ways.
+(48:34) I think we've got most... That's my point, right? We've already got most of them. So it's like when somebody notices a chocolate bar melts in their pocket and realizes the significance, we get microwave ovens. That's the 1945 example. Now a lot of our work, and this is the work we originally did for DARPA, is how do you associate unarticulated or articulated needs with existing knowledge bases in novel ways.
 
-((48:57) And) the way you do that is through abstraction. It turns out the role of abstraction in human evolution, because art is fundamental to human evolution? Which is actually why the focus on STEM education is potentially a disaster.
+(48:57 And) the way you do that is through abstraction. It turns out the role of abstraction in human evolution, because art is fundamental to human evolution? Which is actually why the focus on STEM education is potentially a disaster.
 
-(((49:11) What abstraction does is, it allows you to make novel connections because it removes you from the material. So you suddenly see connections you haven't seen before. And so a lot of us are now working on this, is how do you generate) exaptative) moments or associations.  
+(49:11) What abstraction does is, it allows you to make novel connections because it removes you from the material. So you suddenly see connections you haven't seen before. And so a lot of us are now working on this, is how do you generate exaptative moments or associations.  
 
 (49:28) We just spent two years working with people from RAND and from Stanford, on a complex approach to design thinking, because the current design thinking approach is deeply commodified, and is highly linear. If I see that double diamond again, I shall go quietly insane.
 
-((49:46) So we've actually been working on a complex systems approach, which is how do you map unarticulated needs against existing knowledge? And that sort of association is highly generative in terms of novelty. And I think that's where we start.)  I did a lot of my original work in Kakadu with aboriginal groups. There are models of economic transfer that we could exapt from aboriginal communities, that we're not thinking about, because we're obsessed with blockchain and means of exchange, rather than thinking, for example, about gifting. So it's not that there are things out there we can't use. We're just not bringing them together in such a way that they can exapt.
+(49:46) So we've actually been working on a complex systems approach, which is how do you map unarticulated needs against existing knowledge? And that sort of association is highly generative in terms of novelty. And I think that's where we start. I did a lot of my original work in Kakadu with aboriginal groups. There are models of economic transfer that we could exapt from aboriginal communities, that we're not thinking about, because we're obsessed with blockchain and means of exchange, rather than thinking, for example, about gifting. So it's not that there are things out there we can't use. We're just not bringing them together in such a way that they can exapt.
 
 (50:27) [Phoebe] I'd also add, Dave, that the majority of people have been through a highly reductionist education system. And there is actually a crisis of lack of perception of complexity.
 
@@ -248,7 +248,7 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (50:47) [Phoebe] I'm going to take that personally. :-)
 
-((50:48) [Dave]) ... to eliminate them. Well, there's always going to be some outliers, but in general, it's a problem. Because the educational system started to focus on high levels of specialization. And modular education was a disaster in that respect. Pass a module, tick a box, move onto the next one.
+(50:48) [Dave] ... to eliminate them. Well, there's always going to be some outliers, but in general, it's a problem. Because the educational system started to focus on high levels of specialization. And modular education was a disaster in that respect. Pass a module, tick a box, move onto the next one.
 
 (51:08) [Phoebe] I'd also say that whenever we're focused on solving a problem, if you're just focused on solving these siloed problems, that's also forcing a lot of design thinking built on the back of technology, like trying to solve problems and trying to design towards solutions.
 
@@ -256,7 +256,7 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (52:10) [Dave] ... few phrases which pick up on that. One, I coined a long time ago, I said, "We need to focus on **messy coherence**." And people... generally, messy coherence means there's structure in it. And with that there's another phrase, called **coherent heterogeneity**, which I've been explaining at government level (sp?).
 
-((52:27) So coherent heterogeneity) means there are differences, but we can get coherence and the easiest way I can explain it is... You probably realized from the background I'm Welsh. And in Wales, we have a religion called rugby. It's not a sport. It's far too serious for that. And I support the Cardiff Blues, who are a highly intelligent, disciplined team who always play fair, and they're much put upon by evil referees and uncivilized opposition.
+(52:27) So coherent heterogeneity means there are differences, but we can get coherence and the easiest way I can explain it is... You probably realized from the background I'm Welsh. And in Wales, we have a religion called rugby. It's not a sport. It's far too serious for that. And I support the Cardiff Blues, who are a highly intelligent, disciplined team who always play fair, and they're much put upon by evil referees and uncivilized opposition.
 
 (52:54) And down the road, there's those bastards in Llanelli (sp?), a bunch of ten men who bribe the referees, foul on the pitch, and shouldn't be trusted near any civilized individual.
 
@@ -264,13 +264,13 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (53:19) Now that's called "coherent heterogeneity." And part of the problem you got with the Theory U, the Senge, or those sort of things is an attempt to homogenize to solve the solution. And, of course, that means you will always lose to people who can make differences. Because human beings like conflict. You're not going to get rid of conflict. The issue is to make the conflict something which is coherent, which can move forwards, rather than trying to eliminate it.
 
-(((53:47) [Phoebe] What was the word,) "coherent heterogeneity.") Could we simplify that as just, like, "diversity," a "union of diversity?"
+(53:47) [Phoebe] What was the word, "coherent heterogeneity." Could we simplify that as just, like, "diversity," a "union of diversity?"
 
 (53:55) [Dave] No, because that feels terribly platitudinous to me.
 
 (53:59) [Phoebe] Doesn't sound clever enough. :-)  
 
-((54:01) [Dave] My background is philosophy and physics. So I have a passion about language and scientific precision. I'm open to simplification, but "coherent heterogeneity") sums it up well.
+(54:01) [Dave] My background is philosophy and physics. So I have a passion about language and scientific precision. I'm open to simplification, but "coherent heterogeneity" sums it up well.
 
 (54:13) [Phoebe] Well, we have this debate, don't we, because I do worry that a lot of this work needs to get out faster to the world.
 
@@ -284,7 +284,7 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (55:21) [Phoebe] I'm up for questions.
 
-((55:22) [Dave] I'm up for) questions as well. Go for it.
+(55:22) [Dave] I'm up for questions as well. Go for it.
 
 (55:25) [Lou] Amazing. Rachel, would you like to ask your question? I'm going to unmute you.
 
@@ -304,7 +304,7 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (57:12) [Phoebe] I think the thing I just talked about around perception of complexity. I think right now I'm really obsessed by perception, and this idea that actually, the reason we keep moving through these loops of kind of broken thinking and solutions that don't work and actually create more and more problems is because we're perceiving a simulation of a kind of linear reductionist reality and trying to overlay solutions. I mean, just like our education system and many, many others.
 
-((57:43) This isn't an original. This isn't an idea that isn't thought of before. But I'm **really** interested in ways that we can **shift** towards perception of complexity. And I think there are many ways of doing that, and training that throughout life. I think people who go through biological science training, for example.) When you're learning about these, when you just go through lots and lots of different case studies of living systems and biological systems and start to understand how those work, I think that helps you develop a lens towards looking at the world of social systems and problems in governance, and I think there are others too.
+(57:43) This isn't an original. This isn't an idea that isn't thought of before. But I'm **really** interested in ways that we can **shift** towards perception of complexity. And I think there are many ways of doing that, and training that throughout life. I think people who go through biological science training, for example. When you're learning about these, when you just go through lots and lots of different case studies of living systems and biological systems and start to understand how those work, I think that helps you develop a lens towards looking at the world of social systems and problems in governance, and I think there are others too.
 
 (58:23) I actually think art should be a necessary subject in every child's schooling because I think just having a practice of art -- making art, painting, creative process, is also ways towards having more of a perception of the world as it is, and actually not just overlaying frameworks. I think design thinking has actually been incredibly dangerous to (sp?) perception because, you know, living systems are not... they cannot be double diamonded. That's a bigger debate, and I also have a lot of respect for the design world in other areas. But I do think it's time for a massive revolution around perception.
 
@@ -358,7 +358,7 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (1:07:17) [Dave] I think there's a few around. We were engaged in supporting the Welsh Audit Office in a major study of cooperatives. If you look at the fishing cooperatives on the east coasts of America, who were interesting, where some of the first complexity studies were done with Peter Allen, who proved that if an individual trawler tried to optimize catch, then the overall performance of the fleet was suboptimal. That you needed suboptimal individual behavior, for the system to be optimal. And that's been proved a lot of times.
 
-((1:07:52) And Mondragon) in the Basque country of northern Spain. So these are 20 or 30 (sp?) massive industries which are cooperatives, because they evolved around certain principles with real interests of people. So I think that's one area of interest.
+(1:07:52) And Mondragon in the Basque country of northern Spain. So these are 20 or 30 (sp?) massive industries which are cooperatives, because they evolved around certain principles with real interests of people. So I think that's one area of interest.
 
 (1:08:08) I think the other area, though you've got to be careful about this, because there's an awful lot of New Age fluffy bunnydom done around this, is indigenous communities. And I'll come back to the concept of a gift.
 
@@ -370,7 +370,7 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (1:09:12) The work I did, which translated to a whole bunch of methods, particularly the use of **conflict** in decision-making, came from studies in Kakadu. The whole idea about ritualized assent and ritualized conflict. And we built that into a mechanism we're just publishing with the EU, called a Tricotocon, in which three groups of experts come together in a **highly** structured dance, which is highly ritualized. So if you can ritualize conflict, you can explore meaning. So there's a whole body of stuff we can draw on. We just need more people doing it. And we need more visibility for it.
 
-((1:09:50) [Forrest] For) that last one in particular, where you're talking about three expert groups and a ritualized conflict negotiated. So there's a social process. When you say "ritual," I'm thinking that there's a series of behaviors or particular dynamics of interaction that are codified in a common knowledge.
+(1:09:50) [Forrest] For that last one in particular, where you're talking about three expert groups and a ritualized conflict negotiated. So there's a social process. When you say "ritual," I'm thinking that there's a series of behaviors or particular dynamics of interaction that are codified in a common knowledge.
 
 (1:10:08) [Dave] Yes, there are. We've done a lot of work we've found with masks, and avatars, because what ritual does -- remember I said, you don't see the gorilla? Well, it's quite interesting. I can actually ritualize a point, which means you **will** see the gorilla.
 
@@ -396,17 +396,17 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (1:13:24) [Lou] Yeah, this is super interesting. We have a question from Ted. Ted, would you like to ask your great question?
 
-((1:13:36) [Ted] Dave,) just given that we're in a, well, the common understanding of evolution is when... about competition. Whereas it seems to me that when you look deeply at the underlying mathematics and systemics of evolution, all new levels of complexity arise from new levels of cooperation. So when you hold that view of the evolution of complexity, and then you look at how we have evolved our systems of value, and that we have **exchange** values, which necessarily value abundance of anything universal at zero, we seem to be in a really deep problem space.
+(1:13:36) [Ted] Dave, just given that we're in a, well, the common understanding of evolution is when... about competition. Whereas it seems to me that when you look deeply at the underlying mathematics and systemics of evolution, all new levels of complexity arise from new levels of cooperation. So when you hold that view of the evolution of complexity, and then you look at how we have evolved our systems of value, and that we have **exchange** values, which necessarily value abundance of anything universal at zero, we seem to be in a really deep problem space.
 
 (1:14:28) [Phoebe] I would only jump in to disagree that it's all based on cooperation. It's definitely, in ecology and in biology, it's both. Both dynamics are very important for evolution.
 
-((1:14:44) ... Mary Midgley's devastating criticism of Dawkins, in a book called "Science and Poetry.") Mary Midgley is one of the doyennes of British philosophy.
+(1:14:44) ... Mary Midgley's devastating criticism of Dawkins, in a book called "Science and Poetry." Mary Midgley is one of the doyennes of British philosophy.
 
 (1:14:56) Dawkins rewrote the introduction to "Selfish Gene" to try and cope with her criticism of it. He said he was misinterpreting evolution to give a biological justification for Thatcherism, which he was. I mean, I don't know a single geneticist who takes Dawkins seriously. But the trouble is, the public **opinion** of genetics is informed by that. So completely (sp?).  
 
 (1:15:23) We're doing work at the moment in south of England where we got young women going for voluntary mastectomies, because they've had a genetic scan which says they got the gene, which disposes them to breast cancer. Now, the reality is, if you change their diet, that gene will never get activated. And they're doing something very risky, that people have got into this linear, deterministic concept.
 
-((1:15:46) I would say, if you really wanted summarize evolution, it's survival of the luckiest, not survival of the fittest, if you want to get it into simplistic phrase. And exaptation has been far more important than adaptation, i.e, things connect in novel ways in different circumstances. You get punctuated equilibrium in the process, and radical change. So I **do** think we need a much bigger understanding of evolution in the population as a whole. Yeah? And) God help me...
+(1:15:46) I would say, if you really wanted summarize evolution, it's survival of the luckiest, not survival of the fittest, if you want to get it into simplistic phrase. And exaptation has been far more important than adaptation, i.e, things connect in novel ways in different circumstances. You get punctuated equilibrium in the process, and radical change. So I **do** think we need a much bigger understanding of evolution in the population as a whole. Yeah? And God help me...
 
 (1:16:20) [Matt] How do we get that?  
 
@@ -430,9 +430,9 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (1:18:32) [Ted] I think both are essential. If you have one without the other the systems fail. They both have to be in balance.
 
-((1:18:41) [Dave] One of the) things we're just going to have to face up to the fact to, Ted, is, we're going to have a significant culling of humanity, if we survive at all. We're past the point where...
+(1:18:41) [Dave] One of the things we're just going to have to face up to the fact to, Ted, is, we're going to have a significant culling of humanity, if we survive at all. We're past the point where...
 
-(() 1:18:50) [Ted] Why?  
+( 1:18:50) [Ted] Why?  
 
 (1:18:51) [Dave] Because there's no way of preventing it anymore. The population growth, the time available... I mean, the issue is we might... I don't think we have an extinction event, but we will have a significant death rate. COVID itself is going to kill a lot more people than people currently realize. And there's more coming on that. So we got to try and find a way of minimizing that and coming out of it differently. But it's going to happen.
 
@@ -458,7 +458,7 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (1:20:51) I think the other way is exaptation. We **desperately** need a **highly** structured worldwide process to actually exapt technologies fast for novel purpose. And that needs to happen on a micro as well as a macro level.
 
-((1:21:06) And I think the third thing is, and this is the most difficult, is how do we fight populism? Because I think we got... you know, the U. K. is in the same position as the U. S. at the moment. It's being deeply manipulated. The democratic process of control is now being completely ignored by our government. They're just assuming it will go away and people won't care enough. So I think the final problem is, how do we get enough people to **care,**) [so] that populism won't win? And I haven't got an answer to that.
+(1:21:06) And I think the third thing is, and this is the most difficult, is how do we fight populism? Because I think we got... you know, the U. K. is in the same position as the U. S. at the moment. It's being deeply manipulated. The democratic process of control is now being completely ignored by our government. They're just assuming it will go away and people won't care enough. So I think the final problem is, how do we get enough people to **care,** [so] that populism won't win? And I haven't got an answer to that.
 
 (1:21:49) [Phoebe] I think I would add... I agree with everything you said, Dave. I would also add that we need new grand narratives. And we need these narratives that can get people feeling like they have a role to play within the future. And I think children and the younger generations are very important for that.
 
