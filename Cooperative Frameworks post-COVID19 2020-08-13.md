@@ -246,7 +246,7 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (50:40) [Dave] There aren't any generalists left, under the age of 55, in the UK or the US.
 
-(50:47) [Phoebe] I'm gonna take that personally. :-)
+(50:47) [Phoebe] I'm going to take that personally. :-)
 
 ((50:48) [Dave]) ... to eliminate them. Well, there's always going to be some outliers, but in general, it's a problem. Because the educational system started to focus on high levels of specialization. And modular education was a disaster in that respect. Pass a module, tick a box, move onto the next one.
 
@@ -392,7 +392,7 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (1:13:04) [Forrest] Yeah. I've been looking at judicial process, in particular, for similar reasons.
 
-(1:13:10) So you take "Twelve good men and true," to take the classic phrase, all right? Make them four groups of three, and don't allow them to talk with each other. They will make better decisions.
+(1:13:10) So you take, "Twelve good men and true," to take the classic phrase, all right? Make them four groups of three, and don't allow them to talk with each other. They will make better decisions.
 
 (1:13:24) [Lou] Yeah, this is super interesting. We have a question from Ted. Ted, would you like to ask your great question?
 
@@ -424,7 +424,7 @@ The home page for this transcript is [https://github.com/peterkaminski/transcrip
 
 (1:17:33) [Dave] And you can also trace it... There's a classic divide in philosophy between social atomism and communitarianism. And this is fundamental. So social atomism dominates in northern Europe and North America, because it actually goes with the rise of Protestantism, and it assumes the individual is the primary unit. So, societies and aggregation of individual interests. You change the individual to change society. The individual has the relationship with God.
 
-(1:18:01) You contrast that with communitarianism, which is Africa, Asia, the Celtic fringe of Europe, southern Europe, where the individual's identity comes as a **result** of their community. So the community is first, and the interactions of that. Now, I think the biology backs up communitarianism over atomism, and atomism has produced effectively a perverted result, because it focuses on the individual. And that's never gonna work for a species.  
+(1:18:01) You contrast that with communitarianism, which is Africa, Asia, the Celtic fringe of Europe, southern Europe, where the individual's identity comes as a **result** of their community. So the community is first, and the interactions of that. Now, I think the biology backs up communitarianism over atomism, and atomism has produced effectively a perverted result, because it focuses on the individual. And that's never going to work for a species.  
 
 (1:18:30) [Phoebe] Yeah, I agree. And you've got something...
 
