@@ -34,6 +34,8 @@ Three dots (…) are used sometimes when a speaker’s sentence trails off.  Thr
 
 `Cooperative Frameworks post-COVID19 2020-08-13.html` is a plain HTML rendering of the `.md` file.
 
+`Cooperative Frameworks post-COVID19 2020-08-13.docx` is an OOXML version of the `.md` file, with the timestamps removed, and the brackets removed from speakers' names. This format is useful for certain third-party text processing tools.
+
 It is intended that there will be an `Addendum.md` file added to this repository, with topics from the Salon and the associated Zoom chat, with short descriptions and links to further information on the web.
 
 ## Comments, Corrections, and Contributions
